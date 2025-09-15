@@ -1,0 +1,14 @@
+flask ==
+deeptranslator == 
+Import detect ==
+Import discord ==
+Import random ==
+Import commands ==
+Import gen_pass ==
+Import os ==
+Import requests ==
+Import GoogleTranslator ==
+From detect_objects ==
+From model ==
+From bot_logic ==
+from discord.ext ==
